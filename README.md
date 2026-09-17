@@ -406,6 +406,8 @@ HR_Analytics_EDA_Notebook_Executed.ipynb
 - The dataset does not contain every possible HR factor that may influence employee retention.
 - Results should be validated against current organizational data before making operational decisions.
 
+---
+
 ## 🔮 Future Enhancements
 
 - Predictive Employee Attrition Modeling
