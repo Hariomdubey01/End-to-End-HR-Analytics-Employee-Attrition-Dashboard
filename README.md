@@ -20,8 +20,8 @@
 - [Data Integrity & Corrections](#-data-integrity--corrections)
 - [SQL Analytics](#-sql-analytics)
 - [Python Analysis](#-python-analysis)
-- [Data Preparation](#-data-preparation)
 - [Dataset](#-dataset)
+- [Data Preparation](#-data-preparation)
 - [Tech Stack](#-tech-stack)
 - [Business Value](#-business-value)
 - [Skills Demonstrated](#-skills-demonstrated)
@@ -31,6 +31,7 @@
 - [Future Enhancements](#-future-enhancements)
 - [About Me](#-about-me)
 - [Contact](#-contact)
+
 
 ---
 
