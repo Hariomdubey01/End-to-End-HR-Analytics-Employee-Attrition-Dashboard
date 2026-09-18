@@ -7,7 +7,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](https://github.com/Hariomdubey01/End-to-End-HR-Analytics-Employee-Attrition-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
+![Dashboard Preview](https://github.com/Hariomdubey01/End-to-End-HR-Analytics-Employee-Attrition-Dashboard/blob/main/dashboard/HR%20Analytics%20Dashboard.png)
 
 ## 📑 Table of Contents
 
